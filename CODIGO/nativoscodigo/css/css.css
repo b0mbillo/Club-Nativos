@@ -1,0 +1,19 @@
+.nav-link{
+    font-size: 20px;
+    font-family: 'Muli', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Muli', sans-serif;
+   
+}
+
+.navbar-inverse .nav li a{
+    color: yellow;
+  }
+  
+  /*Mouse encima*/
+  .navbar-inverse .nav li a:hover{
+    color: rgb(0, 0, 0);
+  }
+

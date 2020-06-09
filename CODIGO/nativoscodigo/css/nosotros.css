@@ -1,0 +1,23 @@
+.li{
+font-size: 20px;
+color: rgb(0, 0, 0);
+}
+.p{
+    font-size: 20px;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.lead{
+    font-size: 30px;
+}
